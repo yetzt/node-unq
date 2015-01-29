@@ -5,7 +5,7 @@ Remove duplicates from an array
 ## Install
 
 ``` 
-npm install uniq
+npm install unq
 ```
 
 ## Usage
