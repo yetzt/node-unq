@@ -1,0 +1,26 @@
+{
+  "name": "unq",
+  "version": "0.0.1",
+  "description": "remove duplicates from an array",
+  "main": "unq.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yetzt/node-unq"
+  },
+  "keywords": [
+    "array",
+    "unique",
+    "uniq",
+    "duplicate",
+    "remove"
+  ],
+  "author": "yetzt <node@yetzt.me> (https://yetzt.me/)",
+  "license": "Public Domain",
+  "bugs": {
+    "url": "https://github.com/yetzt/node-unq/issues"
+  },
+  "homepage": "https://github.com/yetzt/node-unq"
+}
